@@ -8,7 +8,7 @@ params:
 series: headline
 tags:
 - General
-title: Welcome to the Mother-to-Be Journey
+title: "Welcome to the Mother-to-Be Journey"
 ---
 
 You’re about to embark on an incredible journey—becoming a mother. It’s a path full of love, surprises, and unforgettable moments. Each day brings new experiences, every heartbeat carries meaning, and every step forward is a part of this life-changing adventure. Challenges will come, but they offer chances to grow, love more deeply, and find joy in the little things. I encourage you to choose love, seek knowledge, and embrace happiness at every turn. This is your story, let make it one of strength, joy, and love!
