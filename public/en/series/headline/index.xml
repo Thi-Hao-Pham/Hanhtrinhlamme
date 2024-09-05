@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Headline on Mother-to-be-journey</title>
+    <link>http://localhost:4321/en/series/headline/</link>
+    <description>Recent content in Headline on Mother-to-be-journey</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 15:11:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/en/series/headline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Mother-to-Be Journey</title>
+      <link>http://localhost:4321/en/for-mommy/mommy-intro/</link>
+      <pubDate>Sun, 01 Sep 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:4321/en/for-mommy/mommy-intro/</guid>
+      <description>&lt;p&gt;You’re about to embark on an incredible journey—becoming a mother. It’s a path full of love, surprises, and unforgettable moments. Each day brings new experiences, every heartbeat carries meaning, and every step forward is a part of this life-changing adventure. Challenges will come, but they offer chances to grow, love more deeply, and find joy in the little things. I encourage you to choose love, seek knowledge, and embrace happiness at every turn. This is your story, let make it one of strength, joy, and love!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Normal Delivery vs. Cesarean Section - The Situation in Vietnam</title>
+      <link>http://localhost:4321/en/for-mommy/vaginal-vs-c-section-vn-situation/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/en/for-mommy/vaginal-vs-c-section-vn-situation/</guid>
+      <description>&lt;p&gt;In Vietnam, nearly half of all births in 2021—49.6%—were by cesarean section (C-section). This is a staggering figure compared to the 10–15% rate recommended by the World Health Organization (WHO). With such a high number of C-sections, there’s growing concern about whether this procedure is being overused, potentially affecting the health and well-being of both mothers and babies. So why is this happening, and do the benefits of C-sections outweigh the risks?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 10 of Pregnancy - Exciting Changes for Both You and Your Baby</title>
+      <link>http://localhost:4321/en/for-mommy/week-10/</link>
+      <pubDate>Tue, 03 Sep 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/en/for-mommy/week-10/</guid>
+      <description>&lt;p&gt;Congratulations, you’ve reached the 10-week milestone in your pregnancy! At this stage, remarkable developments are taking place both in your body and with your growing baby. Let’s explore what you can expect during this exciting time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Thing to Do When You Know You Are Pregnant</title>
+      <link>http://localhost:4321/en/for-mommy/first-thing-to-do/</link>
+      <pubDate>Mon, 02 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/en/for-mommy/first-thing-to-do/</guid>
+      <description>&lt;p&gt;Seeing those two lines on your pregnancy test is an unforgettable moment—one filled with excitement, emotions, and maybe a touch of anxiety. This is a magical time, but it’s also when you need to focus on a few important steps to ensure a healthy pregnancy. It’s not about making announcements or planning celebrations just yet; the most crucial things to do first involve your healthcare and well-being.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>post1</title>
+      <link>http://localhost:4321/en/for-baby/first-thing-to-do/</link>
+      <pubDate>Mon, 02 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/en/for-baby/first-thing-to-do/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

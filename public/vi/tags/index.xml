@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on Hành trình làm mẹ</title>
+    <link>http://localhost:4321/vi/tags/</link>
+    <description>Recent content in Tag on Hành trình làm mẹ</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 02 Sep 2024 15:11:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/vi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Trimester</title>
+      <link>http://localhost:4321/vi/tags/first-trimester/</link>
+      <pubDate>Mon, 02 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/vi/tags/first-trimester/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:4321/vi/tags/general/</link>
+      <pubDate>Sun, 01 Sep 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:4321/vi/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:4321/vi/tags/reading/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
+      <guid>http://localhost:4321/vi/tags/reading/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

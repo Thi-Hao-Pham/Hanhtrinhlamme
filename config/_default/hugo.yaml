@@ -1,0 +1,23 @@
+baseURL: https://genway.com.cn/
+theme: hugo-theme-walden
+defaultContentLanguage: vi
+defaultContentLanguageInSubdir: no
+pagination:
+  disableAliases: no
+  pagerSize: 12
+  path: page
+params:
+  multiLingual: yes
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.129.0

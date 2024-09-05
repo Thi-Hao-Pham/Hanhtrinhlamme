@@ -1,0 +1,33 @@
+[[main]]
+  name = 'Home'
+  identifier = "home"
+  pageRef = '/'
+  weight = 10
+  
+[[main]]
+  name = 'Author'
+  identifier = "author"
+  pageRef = '/author'
+  weight = 20
+
+[[main]]
+  name = 'For Mommy'
+  identifier = "for-mommy"
+  pageRef = '/for-mommy'
+  weight = 30
+
+[[main]]
+  name = 'For Baby'
+  identifier = "for-baby"
+  pageRef = '/for-baby/'
+  weight = 40
+
+#[[main]]
+#  name = 'Docs'
+#  identifier = "docs"
+#  pageRef = '/docs'
+#  weight = 50
+
+
+
+

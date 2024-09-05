@@ -1,0 +1,13 @@
+title = 'Hành trình làm mẹ'
+
+contentDir = 'content/vi'
+languageName = 'Tiếng Việt'
+languageCode = 'vi'
+
+copyright = 'All rights reserved'
+
+weight = 1
+
+[params]
+    author = 'Phạm Hảo'
+    description = ''

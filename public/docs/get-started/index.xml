@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Started on Hành trình làm mẹ</title>
+    <link>http://localhost:4321/docs/get-started/</link>
+    <description>Recent content in Get Started on Hành trình làm mẹ</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sat, 17 Jun 2023 19:10:11 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/docs/get-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>http://localhost:4321/docs/get-started/demo/</link>
+      <pubDate>Sat, 17 Jun 2023 19:10:02 +0800</pubDate>
+      <guid>http://localhost:4321/docs/get-started/demo/</guid>
+      <description>Two ways to view the demo：&#xA;Visit demo site: walden.genway.com.cn View demo by cloning repository from Github. git clone https://github.com/homecat805/hugo-theme-walden hugo-theme-walden cd hugo-theme-walden hugo server --source &amp;#34;exampleSite&amp;#34; --themesDir &amp;#34;../..&amp;#34; </description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:4321/docs/get-started/installation/</link>
+      <pubDate>Sat, 17 Jun 2023 19:10:11 +0800</pubDate>
+      <guid>http://localhost:4321/docs/get-started/installation/</guid>
+      <description>The Hugo documentation describes in detail how to install on different operating systems, which will not be repeated here, the operating system related to this article is Ubuntu 22.04 LTS.&#xA;As Submodule Create the website root directory mysite and perform git initialization, then install the theme as a module to the mysite/themes, and copy all the files in the exampleSite in theme directory to the root directory of the website.</description>
+    </item>
+  </channel>
+</rss>

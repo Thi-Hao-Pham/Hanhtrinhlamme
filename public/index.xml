@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trang chủ on Hành trình làm mẹ</title>
+    <link>http://localhost:4321/</link>
+    <description>Recent content in Trang chủ on Hành trình làm mẹ</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 15:11:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chào mừng bạn đến với hành trình làm mẹ</title>
+      <link>http://localhost:4321/for-mommy/mommy-intro/</link>
+      <pubDate>Sun, 01 Sep 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:4321/for-mommy/mommy-intro/</guid>
+      <description>&lt;p&gt;Bạn đang bước vào một hành trình tuyệt vời – hành trình làm mẹ. Đó là con đường chứa đầy yêu thương, bất ngờ và những khoảnh khắc khó quên. Mỗi ngày là một trải nghiệm mới, mỗi nhịp tim đều mang ý nghĩa, và mỗi bước đi là một phần của cuộc phiêu lưu thay đổi cuộc đời này. Những thách thức sẽ xuất hiện nhưng đó cũng là cơ hội để bạn trưởng thành, yêu thương sâu sắc hơn và tìm thấy niềm vui trong những điều nhỏ bé. Mình khuyến khích bạn hãy chọn yêu thương, tìm kiếm tri thức và đón nhận hạnh phúc trên từng bước đi. Đây là câu chuyện của bạn—hãy biến nó thành một hành trình đầy sức mạnh, niềm vui và tình yêu!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Figure</title>
+      <link>http://localhost:4321/docs/shortcodes/figure/</link>
+      <pubDate>Mon, 17 Jun 2024 18:48:43 +0800</pubDate>
+      <guid>http://localhost:4321/docs/shortcodes/figure/</guid>
+      <description>Syntax {{&amp;lt; figure src=&amp;#34;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg&amp;#34; title=&amp;#34;人与峡谷。 ©Homecat&amp;#34; &amp;gt;}} Render Style 人与峡谷。 ©Homecat </description>
+    </item>
+    <item>
+      <title>Demo</title>
+      <link>http://localhost:4321/docs/get-started/demo/</link>
+      <pubDate>Sat, 17 Jun 2023 19:10:02 +0800</pubDate>
+      <guid>http://localhost:4321/docs/get-started/demo/</guid>
+      <description>Two ways to view the demo：&#xA;Visit demo site: walden.genway.com.cn View demo by cloning repository from Github. git clone https://github.com/homecat805/hugo-theme-walden hugo-theme-walden cd hugo-theme-walden hugo server --source &amp;#34;exampleSite&amp;#34; --themesDir &amp;#34;../..&amp;#34; </description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>http://localhost:4321/docs/markdown/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/syntax/</guid>
+      <description>Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.&#xA;Markdown Guide The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.&#xA;markdownguide.org </description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:4321/docs/get-started/installation/</link>
+      <pubDate>Sat, 17 Jun 2023 19:10:11 +0800</pubDate>
+      <guid>http://localhost:4321/docs/get-started/installation/</guid>
+      <description>The Hugo documentation describes in detail how to install on different operating systems, which will not be repeated here, the operating system related to this article is Ubuntu 22.04 LTS.&#xA;As Submodule Create the website root directory mysite and perform git initialization, then install the theme as a module to the mysite/themes, and copy all the files in the exampleSite in theme directory to the root directory of the website.</description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>http://localhost:4321/docs/markdown/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/text/</guid>
+      <description>Headings Heading lever 2 Heading lever 3 Heading lever 4 Heading lever 5 Heading lever 6 Paragraphs When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months.</description>
+    </item>
+    <item>
+      <title>Emphasis</title>
+      <link>http://localhost:4321/docs/markdown/emphasis/</link>
+      <pubDate>Fri, 21 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/emphasis/</guid>
+      <description>Bold When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.</description>
+    </item>
+    <item>
+      <title>Blockquotes</title>
+      <link>http://localhost:4321/docs/markdown/blockquotes/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/blockquotes/</guid>
+      <description>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:4321/docs/markdown/code/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/code/</guid>
+      <description>If you’re on a Debian-based distribution, such as Ubuntu, try apt command $ sudo apt install git-all. For more options, there are instructions for installing on several different Unix distributions on the Git website.</description>
+    </item>
+    <item>
+      <title>Code Blocks</title>
+      <link>http://localhost:4321/docs/markdown/code-block/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/code-block/</guid>
+      <description>Normal &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document Example&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; HTML &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document Example&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Javascript $(window).scroll(function(){ if($(window).scrollTop()&amp;gt;300){ $(&amp;#39;#totoc&amp;#39;).fadeIn(250); }else{ $(&amp;#39;#totoc&amp;#39;).fadeOut(250); }; }); </description>
+    </item>
+    <item>
+      <title>Footnotes</title>
+      <link>http://localhost:4321/docs/markdown/footnotes/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/footnotes/</guid>
+      <description>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only.1I lived there two years and two months. At present I am a sojourner in civilized life again.2&#xA;Thoreau wrote the first draft of Walden at the pond, but continued to work on the book for several more years.</description>
+    </item>
+    <item>
+      <title>Image</title>
+      <link>http://localhost:4321/docs/markdown/image/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:4321/docs/markdown/links/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/links/</guid>
+      <description>Link: Hugo&#xA;Website: https://gohugo.io&#xA;Email: 13050082@qq.com</description>
+    </item>
+    <item>
+      <title>Lists</title>
+      <link>http://localhost:4321/docs/markdown/lists/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/lists/</guid>
+      <description>Ordered Lists First item Second item Third item Fourth item Unordered Lists First item Second item Third item Fourth item Nested Lists First item First item Second item Third item Second item First item Second item Third item First item Second item </description>
+    </item>
+    <item>
+      <title>Table</title>
+      <link>http://localhost:4321/docs/markdown/table/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/table/</guid>
+      <description> No YEAR PORULATION URBAN RURAL URBAN/TOTAL 1 2005 130756 56212 74544 43.0 2 2006 131448 58288 73160 44.3 3 2007 132129 60633 71496 45.9 4 2008 132802 62403 70399 47.0 5 2009 133450 64512 68938 48.3 6 2010 134091 66978 67113 49.9 7 2011 134916 69927 64989 51.8 8 2012 135922 72175 63747 53.1 </description>
+    </item>
+    <item>
+      <title>More …</title>
+      <link>http://localhost:4321/docs/markdown/more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/docs/markdown/more/</guid>
+      <description>Abbreviation GIF is a bitmap image format.&#xA;Subscript H2O&#xA;Superscript Xn + Yn = Zn&#xA;Keybord Press CTRL+ALT+DEL to end the session.&#xA;Mark Most salamanders are nocturnal, and hunt for insects, worms, and other small creatures.</description>
+    </item>
+    <item>
+      <title>Sinh thường và Sinh mổ - Mẹ bầu Việt Nam thường chọn gì?</title>
+      <link>http://localhost:4321/for-mommy/vaginal-vs-c-section-vn-situation/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/for-mommy/vaginal-vs-c-section-vn-situation/</guid>
+      <description>&lt;p&gt;Tại Việt Nam, gần một nửa số ca sinh vào năm 2021 (49,6%) là sinh mổ. Đây là một con số đáng kinh ngạc so với tỷ lệ 10–15% được Tổ chức Y tế Thế giới (WHO) khuyến nghị. Với tỷ lệ sinh mổ cao như vậy, ngày càng có nhiều lo ngại về việc phương pháp này có thể đang bị lạm dụng, gây ảnh hưởng đến sức khỏe của cả mẹ và bé. Vậy tại sao điều này lại xảy ra và liệu lợi ích của sinh mổ có thực sự vượt trội so với các rủi ro hay không?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tuần 10 của Thai Kỳ - Những Thay Đổi Quan Trọng ở Mẹ và Sự Phát Triển của Bé</title>
+      <link>http://localhost:4321/for-mommy/week-10/</link>
+      <pubDate>Tue, 03 Sep 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/for-mommy/week-10/</guid>
+      <description>&lt;p&gt;Chúc mừng bạn đã chạm mốc 10 tuần trong thai kỳ! Ở giai đoạn này, có rất nhiều thay đổi đáng chú ý đang diễn ra cả trong cơ thể bạn và với em bé. Hãy cùng tìm hiểu những gì bạn có thể mong đợi trong thời gian này.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Điều đầu tiên cần làm khi bạn biết mình mang thai</title>
+      <link>http://localhost:4321/for-mommy/first-thing-to-do/</link>
+      <pubDate>Mon, 02 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/for-mommy/first-thing-to-do/</guid>
+      <description>&lt;p&gt;Nhìn thấy hai vạch trên que thử thai là một khoảnh khắc không thể nào quên—một khoảnh khắc đầy hân hoan, xúc động, và có thể kèm theo một chút lo lắng. Đây là một thời điểm kỳ diệu, nhưng cũng là lúc bạn cần tập trung vào một số bước quan trọng để đảm bảo một thai kỳ khỏe mạnh. Có thể đây chưa phải lúc để thông báo hay lên kế hoạch ăn mừng, điều quan trọng nhất lúc này là chăm sóc sức khỏe của bạn và của em bé.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on Hành trình làm mẹ</title>
+    <link>http://localhost:4321/tags/</link>
+    <description>Recent content in Tag on Hành trình làm mẹ</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 15:11:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sinh Mổ</title>
+      <link>http://localhost:4321/tags/sinh-m%E1%BB%95/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/tags/sinh-m%E1%BB%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sinh Thường</title>
+      <link>http://localhost:4321/tags/sinh-th%C6%B0%E1%BB%9Dng/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/tags/sinh-th%C6%B0%E1%BB%9Dng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thông Tin Chung</title>
+      <link>http://localhost:4321/tags/th%C3%B4ng-tin-chung/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/tags/th%C3%B4ng-tin-chung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3 Tháng Đầu</title>
+      <link>http://localhost:4321/tags/3-th%C3%A1ng-%C4%91%E1%BA%A7u/</link>
+      <pubDate>Tue, 03 Sep 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/tags/3-th%C3%A1ng-%C4%91%E1%BA%A7u/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trang chủ on Hành trình làm mẹ</title>
+    <link>http://localhost:4321/vi/</link>
+    <description>Recent content in Trang chủ on Hành trình làm mẹ</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 02 Sep 2024 15:11:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figure</title>
+      <link>http://localhost:4321/vi/docs/shortcodes/figure/</link>
+      <pubDate>Mon, 17 Jun 2024 18:48:43 +0800</pubDate>
+      <guid>http://localhost:4321/vi/docs/shortcodes/figure/</guid>
+      <description>Syntax {{&amp;lt; figure src=&amp;#34;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg&amp;#34; title=&amp;#34;人与峡谷。 ©Homecat&amp;#34; &amp;gt;}} Render Style 人与峡谷。 ©Homecat </description>
+    </item>
+    <item>
+      <title>Demo</title>
+      <link>http://localhost:4321/vi/docs/get-started/demo/</link>
+      <pubDate>Sat, 17 Jun 2023 19:10:02 +0800</pubDate>
+      <guid>http://localhost:4321/vi/docs/get-started/demo/</guid>
+      <description>Two ways to view the demo：&#xA;Visit demo site: walden.genway.com.cn View demo by cloning repository from Github. git clone https://github.com/homecat805/hugo-theme-walden hugo-theme-walden cd hugo-theme-walden hugo server --source &amp;#34;exampleSite&amp;#34; --themesDir &amp;#34;../..&amp;#34; </description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>http://localhost:4321/vi/docs/markdown/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/syntax/</guid>
+      <description>Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.&#xA;Markdown Guide The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.&#xA;markdownguide.org </description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:4321/vi/docs/get-started/installation/</link>
+      <pubDate>Sat, 17 Jun 2023 19:10:11 +0800</pubDate>
+      <guid>http://localhost:4321/vi/docs/get-started/installation/</guid>
+      <description>The Hugo documentation describes in detail how to install on different operating systems, which will not be repeated here, the operating system related to this article is Ubuntu 22.04 LTS.&#xA;As Submodule Create the website root directory mysite and perform git initialization, then install the theme as a module to the mysite/themes, and copy all the files in the exampleSite in theme directory to the root directory of the website.</description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>http://localhost:4321/vi/docs/markdown/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/text/</guid>
+      <description>Headings Heading lever 2 Heading lever 3 Heading lever 4 Heading lever 5 Heading lever 6 Paragraphs When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months.</description>
+    </item>
+    <item>
+      <title>Emphasis</title>
+      <link>http://localhost:4321/vi/docs/markdown/emphasis/</link>
+      <pubDate>Fri, 21 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/emphasis/</guid>
+      <description>Bold When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.</description>
+    </item>
+    <item>
+      <title>Blockquotes</title>
+      <link>http://localhost:4321/vi/docs/markdown/blockquotes/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/blockquotes/</guid>
+      <description>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:4321/vi/docs/markdown/code/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/code/</guid>
+      <description>If you’re on a Debian-based distribution, such as Ubuntu, try apt command $ sudo apt install git-all. For more options, there are instructions for installing on several different Unix distributions on the Git website.</description>
+    </item>
+    <item>
+      <title>Code Blocks</title>
+      <link>http://localhost:4321/vi/docs/markdown/code-block/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/code-block/</guid>
+      <description>Normal &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document Example&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; HTML &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document Example&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Javascript $(window).scroll(function(){ if($(window).scrollTop()&amp;gt;300){ $(&amp;#39;#totoc&amp;#39;).fadeIn(250); }else{ $(&amp;#39;#totoc&amp;#39;).fadeOut(250); }; }); </description>
+    </item>
+    <item>
+      <title>Footnotes</title>
+      <link>http://localhost:4321/vi/docs/markdown/footnotes/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/footnotes/</guid>
+      <description>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only.1I lived there two years and two months. At present I am a sojourner in civilized life again.2&#xA;Thoreau wrote the first draft of Walden at the pond, but continued to work on the book for several more years.</description>
+    </item>
+    <item>
+      <title>Image</title>
+      <link>http://localhost:4321/vi/docs/markdown/image/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:4321/vi/docs/markdown/links/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/links/</guid>
+      <description>Link: Hugo&#xA;Website: https://gohugo.io&#xA;Email: 13050082@qq.com</description>
+    </item>
+    <item>
+      <title>Lists</title>
+      <link>http://localhost:4321/vi/docs/markdown/lists/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/lists/</guid>
+      <description>Ordered Lists First item Second item Third item Fourth item Unordered Lists First item Second item Third item Fourth item Nested Lists First item First item Second item Third item Second item First item Second item Third item First item Second item </description>
+    </item>
+    <item>
+      <title>Table</title>
+      <link>http://localhost:4321/vi/docs/markdown/table/</link>
+      <pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/table/</guid>
+      <description> No YEAR PORULATION URBAN RURAL URBAN/TOTAL 1 2005 130756 56212 74544 43.0 2 2006 131448 58288 73160 44.3 3 2007 132129 60633 71496 45.9 4 2008 132802 62403 70399 47.0 5 2009 133450 64512 68938 48.3 6 2010 134091 66978 67113 49.9 7 2011 134916 69927 64989 51.8 8 2012 135922 72175 63747 53.1 </description>
+    </item>
+    <item>
+      <title>More …</title>
+      <link>http://localhost:4321/vi/docs/markdown/more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/vi/docs/markdown/more/</guid>
+      <description>Abbreviation GIF is a bitmap image format.&#xA;Subscript H2O&#xA;Superscript Xn + Yn = Zn&#xA;Keybord Press CTRL+ALT+DEL to end the session.&#xA;Mark Most salamanders are nocturnal, and hunt for insects, worms, and other small creatures.</description>
+    </item>
+    <item>
+      <title>First Thing to Do When You Know You Are Pregnant</title>
+      <link>http://localhost:4321/vi/for-baby/first-thing-to-do/</link>
+      <pubDate>Mon, 02 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-baby/first-thing-to-do/</guid>
+      <description>&lt;p&gt;Seeing those two lines on your pregnancy test is an unforgettable moment—one filled with excitement, emotions, and maybe a touch of anxiety. This is a magical time, but it’s also when you need to focus on a few important steps to ensure a healthy pregnancy. It’s not about making announcements or planning celebrations just yet; the most crucial things to do first involve your healthcare and well-being.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Thing to Do When You Know You Are Pregnant</title>
+      <link>http://localhost:4321/vi/for-mommy/first-thing-to-do/</link>
+      <pubDate>Mon, 02 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-mommy/first-thing-to-do/</guid>
+      <description>&lt;p&gt;Seeing those two lines on your pregnancy test is an unforgettable moment—one filled with excitement, emotions, and maybe a touch of anxiety. This is a magical time, but it’s also when you need to focus on a few important steps to ensure a healthy pregnancy. It’s not about making announcements or planning celebrations just yet; the most crucial things to do first involve your healthcare and well-being.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to the Mother-to-Be Journey</title>
+      <link>http://localhost:4321/vi/for-baby/mommy-intro/</link>
+      <pubDate>Sun, 01 Sep 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-baby/mommy-intro/</guid>
+      <description>&lt;p&gt;The journey of becoming a mother is an extraordinary voyage with an undefined destination, one from which there is no return. Every single day, every hour, every minute, and every second presents a new surprise. Every breath you take and every heartbeat you feel carries profound significance. Remember, every thought, emotion, and action represents a choice you make. I encourage you to choose love, seek knowledge, and embrace happiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to the Mother-to-Be Journey</title>
+      <link>http://localhost:4321/vi/for-mommy/mommy-intro/</link>
+      <pubDate>Sun, 01 Sep 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-mommy/mommy-intro/</guid>
+      <description>&lt;p&gt;The journey of becoming a mother is an extraordinary voyage with an undefined destination, one from which there is no return. Every single day, every hour, every minute, and every second presents a new surprise. Every breath you take and every heartbeat you feel carries profound significance. Remember, every thought, emotion, and action represents a choice you make. I encourage you to choose love, seek knowledge, and embrace happiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waves</title>
+      <link>http://localhost:4321/vi/for-baby/sample-4/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-baby/sample-4/</guid>
+      <description>&lt;p&gt;Waves are the children of the struggle between ocean and atmosphere, the ongoing signatures of infinity. Rays from the sun excite and energize the atmosphere of the earth, awakening it to flow, to movement, to rhythm, to life. The wind then speaks the message of the sun to the sea and the sea transmits it on through waves &amp;ndash; an ancient, exquisite, powerful message.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waves</title>
+      <link>http://localhost:4321/vi/for-mommy/sample-4/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-mommy/sample-4/</guid>
+      <description>&lt;p&gt;Waves are the children of the struggle between ocean and atmosphere, the ongoing signatures of infinity. Rays from the sun excite and energize the atmosphere of the earth, awakening it to flow, to movement, to rhythm, to life. The wind then speaks the message of the sun to the sea and the sea transmits it on through waves &amp;ndash; an ancient, exquisite, powerful message.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Past Life Of The Earth</title>
+      <link>http://localhost:4321/vi/for-baby/sample-3/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:44 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-baby/sample-3/</guid>
+      <description>&lt;p&gt;It is animals and plants which lived in or near water whose remains are most likely to be preserved, for one of the necessary conditions of preservation is quick burial, and it is only in the seas and rivers, and sometimes lakes, where mud and sit have been continuously deposited, that bodies and the can be rapidly covered over and preserved.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Past Life Of The Earth</title>
+      <link>http://localhost:4321/vi/for-mommy/sample-3/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:44 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-mommy/sample-3/</guid>
+      <description>&lt;p&gt;It is animals and plants which lived in or near water whose remains are most likely to be preserved, for one of the necessary conditions of preservation is quick burial, and it is only in the seas and rivers, and sometimes lakes, where mud and sit have been continuously deposited, that bodies and the can be rapidly covered over and preserved.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Sporting Spirit</title>
+      <link>http://localhost:4321/vi/for-baby/sample-2/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-baby/sample-2/</guid>
+      <description>&lt;p&gt;I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the would could meet one another at football or cricket, they would have no inclination to meet on the hattlefield. Even if one didn&amp;rsquo;t know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce if from general principles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Sporting Spirit</title>
+      <link>http://localhost:4321/vi/for-mommy/sample-2/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/vi/for-mommy/sample-2/</guid>
+      <description>&lt;p&gt;I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the would could meet one another at football or cricket, they would have no inclination to meet on the hattlefield. Even if one didn&amp;rsquo;t know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce if from general principles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

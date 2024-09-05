@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on Mother-to-be-journey</title>
+    <link>http://localhost:4321/en/tags/</link>
+    <description>Recent content in Tag on Mother-to-be-journey</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 15:11:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C-Section</title>
+      <link>http://localhost:4321/en/tags/c-section/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/en/tags/c-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:4321/en/tags/general/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/en/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vaginal Birth</title>
+      <link>http://localhost:4321/en/tags/vaginal-birth/</link>
+      <pubDate>Thu, 05 Sep 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:4321/en/tags/vaginal-birth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Trimester</title>
+      <link>http://localhost:4321/en/tags/first-trimester/</link>
+      <pubDate>Tue, 03 Sep 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/en/tags/first-trimester/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

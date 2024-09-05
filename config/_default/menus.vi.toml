@@ -1,0 +1,29 @@
+[[main]]
+  name = 'Trang chủ'
+  identifier = "home"
+  pageRef = '/'
+  weight = 10
+
+[[main]]
+  name = 'Tác giả'
+  identifier = "author"
+  pageRef = '/author'
+  weight = 20
+
+[[main]]
+  name = 'Cho Mẹ'
+  identifier = "for-mommy"
+  pageRef = '/for-mommy'
+  weight = 30
+  
+[[main]]
+  name = 'Cho Bé'
+  identifier = "for-baby"
+  pageRef = '/for-baby'
+  weight = 40
+  
+#[[main]]
+#  name = 'Docs'
+#  identifier = "docs"
+#  pageRef = '/docs'
+#  weight = 50
