@@ -246,8 +246,11 @@
                 href="http://localhost:4321/docs/markdown/more/"
                 />
   </url><url>
+    <loc>http://localhost:4321/tags/3-th%C3%A1ng-gi%E1%BB%AFa/</loc>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -260,7 +263,7 @@
                 />
   </url><url>
     <loc>http://localhost:4321/for-mommy/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -273,7 +276,7 @@
                 />
   </url><url>
     <loc>http://localhost:4321/series/headline/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -286,10 +289,10 @@
                 />
   </url><url>
     <loc>http://localhost:4321/categories/m%E1%BA%B9-ki%E1%BA%BFn-th%E1%BB%A9c-thai-s%E1%BA%A3n/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/series/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -299,6 +302,126 @@
                 rel="alternate"
                 hreflang="vi"
                 href="http://localhost:4321/series/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-17/</loc>
+    <lastmod>2024-09-17T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-17/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-16/</loc>
+    <lastmod>2024-09-14T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-16/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-16/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-15/</loc>
+    <lastmod>2024-09-12T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-15/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-14/</loc>
+    <lastmod>2024-09-10T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-14/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-13/</loc>
+    <lastmod>2024-09-09T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-13/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/tags/3-th%C3%A1ng-%C4%91%E1%BA%A7u/</loc>
+    <lastmod>2024-09-06T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-12/</loc>
+    <lastmod>2024-09-06T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-12/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/week-11/</loc>
+    <lastmod>2024-09-05T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-11/"
                 />
   </url><url>
     <loc>http://localhost:4321/tags/sinh-m%E1%BB%95/</loc>
@@ -320,37 +443,8 @@
                 href="http://localhost:4321/for-mommy/vaginal-vs-c-section-vn-situation/"
                 />
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/tags/"
-                />
-  </url><url>
     <loc>http://localhost:4321/tags/th%C3%B4ng-tin-chung/</loc>
     <lastmod>2024-09-05T15:11:55+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2024-09-05T15:11:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/tags/3-th%C3%A1ng-%C4%91%E1%BA%A7u/</loc>
-    <lastmod>2024-09-03T15:17:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/for-mommy/week-10/</loc>
     <lastmod>2024-09-03T15:17:34+08:00</lastmod>

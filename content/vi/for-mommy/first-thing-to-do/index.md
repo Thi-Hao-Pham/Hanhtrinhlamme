@@ -1,13 +1,12 @@
 ---
-categories: Mẹ-kiến thức thai sản
+title: "Điều đầu tiên cần làm khi bạn biết mình mang thai"
 date: "2024-09-02T15:11:55+08:00"
 draft: false
 params:
-  author: Hao Pham
+  author: "Hao Pham"
 series: headline
-tags:
-- 3 tháng đầu
-title: Điều đầu tiên cần làm khi bạn biết mình mang thai
+tags: 3 tháng đầu
+categories: "Mẹ-kiến thức thai sản"
 ---
 
 Nhìn thấy hai vạch trên que thử thai là một khoảnh khắc không thể nào quên—một khoảnh khắc đầy hân hoan, xúc động, và có thể kèm theo một chút lo lắng. Đây là một thời điểm kỳ diệu, nhưng cũng là lúc bạn cần tập trung vào một số bước quan trọng để đảm bảo một thai kỳ khỏe mạnh. Có thể đây chưa phải lúc để thông báo hay lên kế hoạch ăn mừng, điều quan trọng nhất lúc này là chăm sóc sức khỏe của bạn và của em bé.

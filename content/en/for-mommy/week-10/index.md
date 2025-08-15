@@ -3,11 +3,11 @@ categories: Mommy-pregnancy knowledge
 date: "2024-09-03T15:17:34+08:00"
 draft: false
 params:
-  author: zwangerenportaal-nl
+  author: Hao Pham
 series: headline
 tags:
 - First Trimester
-title: Week 10 of Pregnancy - Exciting Changes for Both You and Your Baby
+title: Week 10 of Pregnancy
 ---
 
 Congratulations, you’ve reached the 10-week milestone in your pregnancy! At this stage, remarkable developments are taking place both in your body and with your growing baby. Let’s explore what you can expect during this exciting time.
@@ -30,3 +30,6 @@ To ease any discomfort from bloating, consider incorporating more fiber into you
 
 As you continue on this amazing journey, remember to take care of yourself and enjoy the wonder of the changes happening inside you. Each week brings you closer to meeting your little one, and week 10 is a significant step along the way!
  
+**Reference**  
+This article includes information adapted from the Dutch pregnancy care platform Zwangerportaal:  
+[https://www.zwangerenportaal.nl/week-10](https://www.zwangerenportaal.nl/week-10)
