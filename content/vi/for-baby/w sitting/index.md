@@ -26,7 +26,7 @@ Tên gọi đã nói lên tất cả: khi bé ngồi, hai chân duỗi sang hai 
 
 - Lâu dài sẽ ảnh hưởng dáng đi.
 
-- Ba mẹ cần sử cho con "ngay" trước khi quá muộn.
+- Ba mẹ cần sửa cho con "ngay" trước khi quá muộn.
 
 ## **Sự thật là gì?**
 
@@ -56,7 +56,7 @@ Dáng ngồi chữ W chỉ đáng quan tâm nếu bé đã có sẵn các vấn 
 
 *Nếu bé hoàn toàn khoẻ mạnh:*
 
-Hãy coi ngồi chữ W như một tư thế tự nhiên trong kho tàng vận động đa dạng của trẻ.Khuyến khích con thay đổi nhiều tư thế khác nhau khi chơi (ngồi xếp bằng, ngồi quỳ, ngồi ghế, đứng lên đi lại…) để tăng cường sự linh hoạt. Nếu thấy bé chỉ duy trì một tư thế duy nhất trong thời gian dài, hoặc có biểu hiện đau, hạn chế vận động, hãy đưa bé đi kiểm tra.
+Hãy coi ngồi chữ W như một tư thế tự nhiên trong kho tàng vận động đa dạng của trẻ. Khuyến khích con thay đổi nhiều tư thế khác nhau khi chơi (ngồi xếp bằng, ngồi quỳ, ngồi ghế, đứng lên đi lại…) để tăng cường sự linh hoạt. Nếu thấy bé chỉ duy trì một tư thế duy nhất trong thời gian dài, hoặc có biểu hiện đau, hạn chế vận động, hãy đưa bé đi kiểm tra.
 
 Ngồi chữ W không “đáng sợ” như nhiều người nghĩ. Trẻ con vốn rất thông minh, chúng chọn tư thế nào là cách cơ thể tự tìm kiếm sự thoải mái. Quan trọng nhất là ba mẹ đồng hành, quan sát và tạo môi trường cho con được vận động phong phú và an toàn.
 
