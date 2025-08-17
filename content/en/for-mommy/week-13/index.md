@@ -7,6 +7,8 @@ params:
 series: headline
 tags:
 - Second Trimester
+- Sexuality during pregnancy
+- Pregnancy symptoms
 title: Week 13 of Pregnancy
 ---
 

@@ -7,6 +7,7 @@ params:
 series: headline
 tags:
 - 3 tháng đầu
+- Triệu chứng thai kỳ
 title: Tuần 12 của thai kỳ
 ---
 

@@ -7,6 +7,8 @@ params:
 series: headline
 tags:
 - 3 tháng giữa
+- Quan hệ tình dục trong thai kỳ
+- Triệu chứng thai kỳ
 title: Tuần 13 của thai kỳ
 ---
 

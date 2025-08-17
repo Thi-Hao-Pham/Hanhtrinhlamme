@@ -7,6 +7,7 @@ params:
 series: headline
 tags:
 - First Trimester
+- Pregnancy symptoms
 title: Week 12 of Pregnancy
 ---
 
