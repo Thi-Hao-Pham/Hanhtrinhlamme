@@ -246,8 +246,11 @@
                 href="http://localhost:4321/en/docs/markdown/more/"
                 />
   </url><url>
+    <loc>http://localhost:4321/en/categories/baby-knowledge/</loc>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/en/categories/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -259,21 +262,21 @@
                 href="http://localhost:4321/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/en/for-mommy/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <loc>http://localhost:4321/en/for-baby/</loc>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:4321/for-mommy/"
+                href="http://localhost:4321/for-baby/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:4321/en/for-mommy/"
+                href="http://localhost:4321/en/for-baby/"
                 />
   </url><url>
     <loc>http://localhost:4321/en/series/headline/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -286,7 +289,7 @@
                 />
   </url><url>
     <loc>http://localhost:4321/en/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -298,17 +301,11 @@
                 href="http://localhost:4321/en/"
                 />
   </url><url>
-    <loc>http://localhost:4321/en/categories/mommy-pregnancy-knowledge/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/en/tags/pregnancy-exercise/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/en/tags/second-trimester/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <loc>http://localhost:4321/en/tags/myth-and-truth/</loc>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/en/series/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -321,7 +318,7 @@
                 />
   </url><url>
     <loc>http://localhost:4321/en/tags/</loc>
-    <lastmod>2025-08-05T15:17:34+08:00</lastmod>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -331,6 +328,63 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:4321/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/en/for-baby/w-sitting/</loc>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-baby/w-sitting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-baby/w-sitting/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/en/for-mommy/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/en/categories/mommy-pregnancy-experience/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/en/categories/mommy-pregnancy-knowledge/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/en/tags/pregnancy-exercise/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/en/tags/pregnancy-yoga/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/en/tags/second-trimester/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/en/for-mommy/walk-softly-speak-quietly/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/en/for-mommy/week-20/</loc>
+    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/week-20/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/week-20/"
                 />
   </url><url>
     <loc>http://localhost:4321/en/for-mommy/week-19/</loc>
@@ -534,18 +588,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:4321/en/docs/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/en/for-baby/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/for-baby/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/for-baby/"
                 />
   </url>
 </urlset>

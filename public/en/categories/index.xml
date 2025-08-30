@@ -7,12 +7,26 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Tue, 05 Aug 2025 15:17:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 15:17:34 +0800</lastBuildDate>
     <atom:link href="http://localhost:4321/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baby-Knowledge</title>
+      <link>http://localhost:4321/en/categories/baby-knowledge/</link>
+      <pubDate>Sun, 17 Aug 2025 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/en/categories/baby-knowledge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mommy-Pregnancy Experience</title>
+      <link>http://localhost:4321/en/categories/mommy-pregnancy-experience/</link>
+      <pubDate>Thu, 07 Aug 2025 15:17:34 +0800</pubDate>
+      <guid>http://localhost:4321/en/categories/mommy-pregnancy-experience/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mommy-Pregnancy Knowledge</title>
       <link>http://localhost:4321/en/categories/mommy-pregnancy-knowledge/</link>
-      <pubDate>Tue, 05 Aug 2025 15:17:34 +0800</pubDate>
+      <pubDate>Thu, 07 Aug 2025 15:17:34 +0800</pubDate>
       <guid>http://localhost:4321/en/categories/mommy-pregnancy-knowledge/</guid>
       <description></description>
     </item>

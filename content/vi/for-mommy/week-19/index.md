@@ -33,7 +33,7 @@ Nếu bạn gặp các triệu chứng như mụn, rạn da hay ngứa, hãy yê
 
 ## **Gợi ý cho tuần 19**
 
-**Trang phục bầu*
+*Trang phục bầu*
 
 Ăn mặc thoải mái nhưng vẫn hợp thời khi mang thai không quá khó. Hãy thử những bộ đồ bầu vừa vặn, mềm mại và tôn dáng, để bạn cảm thấy tự tin và dễ chịu hơn khi bụng ngày một lớn.
 
