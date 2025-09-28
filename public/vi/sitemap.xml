@@ -246,11 +246,8 @@
                 href="http://localhost:4321/docs/markdown/more/"
                 />
   </url><url>
-    <loc>http://localhost:4321/categories/b%C3%A9-ki%E1%BA%BFn-th%E1%BB%A9c/</loc>
-    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -261,6 +258,93 @@
                 hreflang="vi"
                 href="http://localhost:4321/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:4321/tags/dinh-d%C6%B0%E1%BB%A1ng-thai-k%E1%BB%B3/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/series/headline/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/series/headline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/series/headline/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/categories/m%E1%BA%B9-ki%E1%BA%BFn-th%E1%BB%A9c-thai-s%E1%BA%A3n/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/series/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/series/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/for-mommy/vitamin/</loc>
+    <lastmod>2025-09-27T15:17:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:4321/en/for-mommy/vitamin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:4321/for-mommy/vitamin/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/categories/b%C3%A9-ki%E1%BA%BFn-th%E1%BB%A9c/</loc>
+    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/for-baby/w-sitting/</loc>
     <lastmod>2025-08-17T15:17:34+08:00</lastmod>
@@ -288,81 +372,13 @@
                 href="http://localhost:4321/for-baby/"
                 />
   </url><url>
-    <loc>http://localhost:4321/series/headline/</loc>
-    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/series/headline/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/series/headline/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/series/</loc>
-    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/series/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/tags/"
-                />
-  </url><url>
     <loc>http://localhost:4321/tags/tin-%C4%91%E1%BB%93n-v%C3%A0-s%E1%BB%B1-th%E1%BA%ADt/</loc>
     <lastmod>2025-08-17T15:17:34+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2025-08-17T15:17:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/"
-                />
   </url><url>
     <loc>http://localhost:4321/tags/3-th%C3%A1ng-gi%E1%BB%AFa/</loc>
     <lastmod>2025-08-07T15:17:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/for-mommy/di-nhe-noi-khe/</loc>
-    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/for-mommy/</loc>
-    <lastmod>2025-08-07T15:17:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:4321/en/for-mommy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:4321/for-mommy/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/categories/m%E1%BA%B9-ki%E1%BA%BFn-th%E1%BB%A9c-thai-s%E1%BA%A3n/</loc>
     <lastmod>2025-08-07T15:17:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/m%E1%BA%B9-kinh-nghi%E1%BB%87m-thai-s%E1%BA%A3n/</loc>
